@@ -1,0 +1,16 @@
+
+Download 
+- python 2.7 ( pip ) 
+- Django-1.8 ( pip )
+- mongodb ( apt-get )
+- pymongo ( pip )
+
+
+
+- added comments with "mongo updates" in settings.py wherever mongodb related updates made!!
+- added comments with "normal updates" in settings.py wherever other changes made!!
+
+
+
+I am assuming that mongodb has a database named "CS_system" and it has a collection named "post".
+The code in this project is assuming the same thing, so follow along!!
